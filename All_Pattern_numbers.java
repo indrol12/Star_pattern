@@ -1,5 +1,5 @@
 package Test;
-
+hello suyash
 class squares
 {
 	void square_star()
